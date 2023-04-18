@@ -1,3 +1,3 @@
 # Snake-SFML
-Snake game
-classic snake, written using SFML
+Snake game.
+Classic snake, written using SFML
